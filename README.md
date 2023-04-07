@@ -55,13 +55,13 @@
   <h1>Status</h1>
 </div>
 
-[![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api?username=brunoandwele&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api?username=brunoandwele&show_icons=true&theme=gruvbox_light)](https://github.com/brunoandwele)
 
 <div>
   <h1>Principais Repositórios</h1>
 </div>
 
-[![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api/pin?username=brunoandwele&repo=GerenciadorFinanceiroC&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api/pin?username=brunoandwele&repo=GerenciadorFinanceiroC&theme=gruvbox_light)](https://github.com/brunoandwele/GerenciadorFinanceiroC)
 <br>
-[![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api/pin?username=brunoandwele&repo=Jogo-RiceOnFire&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api/pin?username=brunoandwele&repo=Jogo-RiceOnFire&theme=gruvbox_light)](https://github.com/brunoandwele/Jogo-RiceOnFire)
 
