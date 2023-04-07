@@ -1,15 +1,17 @@
-## Olá! Eu sou o Bruno Antunes!
-
-<div style="display: inline_block"><br>
+<div>
+  <div>
+  <img align="center-right" alt="brunoAndwele" height="150" src="https://cdn.discordapp.com/attachments/963985952374661120/1093913156436381789/Screenshot_2023-04-07_at_11.59.25.png">
+   <h1>Olá! Eu sou o Bruno Andwele! </h1>
+  </div>
+  
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  
-  <img align="right" alt="brunoAndwele" height="150" style="border-radius:50%;" src="https://cdn.discordapp.com/attachments/963985952374661120/1093913156436381789/Screenshot_2023-04-07_at_11.59.25.png">
+  <br><br>
 </div>
   
-  ##
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoandwele)](https://github.com/anuraghazra/github-readme-stats)
  
 <div> 
   <a href="https://www.linkedin.com/in/bruno-andwele-alves-antunes-052630243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
