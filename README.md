@@ -61,7 +61,7 @@
   <h1>Main Repositories</h1>
 </div>
 
-[![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api/pin?username=brunoandwele&repo=GerenciadorFinanceiroC&theme=gruvbox_light)](https://github.com/brunoandwele/GerenciadorFinanceiroC)
+[![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api/pin?username=brunoandwele&repo=FinancialManagerInC&theme=gruvbox_light)](https://github.com/brunoandwele/FinancialManagerInC)
 <br>
 [![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api/pin?username=brunoandwele&repo=Jogo-RiceOnFire&theme=gruvbox_light)](https://github.com/brunoandwele/Jogo-RiceOnFire)
 
