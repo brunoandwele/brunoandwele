@@ -28,7 +28,7 @@
 </div>
 
 <div>
-  <h1>Main Skills!</h1>
+  <h1>Main Skills!</h1> 
   <img
     align="center"
     alt="Python"
