@@ -5,7 +5,7 @@
     height="150"
     src="https://cdn.discordapp.com/attachments/963985952374661120/1093913156436381789/Screenshot_2023-04-07_at_11.59.25.png"
   />
-  <h1>Olá! Eu sou o Bruno Andwele!</h1>
+  <h1>Hi! It is me, Bruno Andwele!</h1>
 </div>
 
 <div>
@@ -28,7 +28,7 @@
 </div>
 
 <div>
-  <h1>Principais Skills!</h1>
+  <h1>Main Skills!</h1>
   <img
     align="center"
     alt="Python"
@@ -52,13 +52,13 @@
 </div>
 
 <div>
-  <h1>Status</h1>
+  <h1>Stats</h1>
 </div>
 
 [![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api?username=brunoandwele&show_icons=true&theme=gruvbox_light)](https://github.com/brunoandwele)
 
 <div>
-  <h1>Principais Repositórios</h1>
+  <h1>Main Repositories</h1>
 </div>
 
 [![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api/pin?username=brunoandwele&repo=GerenciadorFinanceiroC&theme=gruvbox_light)](https://github.com/brunoandwele/GerenciadorFinanceiroC)
