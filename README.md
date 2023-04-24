@@ -49,13 +49,13 @@
   <h1>Stats</h1>
 </div>
 
-[![Anurag's GitHubstats](https://github-readme-stats-sigma-five.vercel.app/api?username=brunoandwele&show_icons=true&theme=gruvbox_light)](https://github.com/brunoandwele)
+[![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api?username=brunoandwele&show_icons=true&theme=gruvbox_light)](https://github.com/brunoandwele)
 
 <div>
   <h1>Main Repositories</h1>
 </div>
 
-[![Anurag's GitHubstats](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=brunoandwele&repo=FinancialManagerInC&theme=gruvbox_light)](https://github.com/brunoandwele/FinancialManagerInC)
+[![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api/pin?username=brunoandwele&repo=FinancialManagerInC&theme=gruvbox_light)](https://github.com/brunoandwele/FinancialManagerInC)
 <br>
-[![Anurag's GitHubstats](https://github-readme-stats-sigma-five.vercel.app/api/pin?username=brunoandwele&repo=RiceOnFireGame&theme=gruvbox_light)](https://github.com/brunoandwele/RiceOnFireGame)
+[![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api/pin?username=brunoandwele&repo=RiceOnFireGame&theme=gruvbox_light)](https://github.com/brunoandwele/RiceOnFireGame)
 
