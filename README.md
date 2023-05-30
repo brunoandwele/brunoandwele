@@ -55,7 +55,7 @@
   <h1>Main Repositories</h1>
 </div>
 <br>
-[![Anurag's GitHubstats](https://github-readme-stats-3m5z4rr4z-brunoandwele.vercel.app/api/pin?username=brunoandwele&repo=FakeNewsSpreadingSimulation&theme=gruvbox_light)](https://github.com/brunoandwele/FinancialManagerInC)
+[![Anurag's GitHubstats](https://github-readme-stats-3m5z4rr4z-brunoandwele.vercel.app/api/pin?username=brunoandwele&repo=FakeNewsSpreadingSimulation&theme=gruvbox_light)](https://github.com/brunoandwele/FakeNewsSpreadingSimulation)
 <br>
 [![Anurag's GitHubstats](https://github-readme-stats-3m5z4rr4z-brunoandwele.vercel.app/api/pin?username=brunoandwele&repo=FinancialManagerInC&theme=gruvbox_light)](https://github.com/brunoandwele/FinancialManagerInC)
 <br>
