@@ -44,16 +44,3 @@
     src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
   />
 </div>
-
-<div>
-  <h1>Stats</h1>
-</div>
-
-[![Anurag's GitHubstats](https://github-readme-stats-3m5z4rr4z-brunoandwele.vercel.app/api?username=brunoandwele&show_icons=true&theme=gruvbox_light)](https://github.com/brunoandwele)
-
-<div>
-  <h1>Main Repositories</h1>
-</div>
-[![Anurag's GitHubstats](https://github-readme-stats-3m5z4rr4z-brunoandwele.vercel.app/api/pin?username=brunoandwele&repo=FinancialManagerInC&theme=gruvbox_light)](https://github.com/brunoandwele/FinancialManagerInC)
-<br>
-[![Anurag's GitHubstats](https://github-readme-stats-3m5z4rr4z-brunoandwele.vercel.app/api/pin?username=brunoandwele&repo=RiceOnFireGame&theme=gruvbox_light)](https://github.com/brunoandwele/RiceOnFireGame)
