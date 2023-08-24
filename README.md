@@ -1,46 +1,43 @@
-<div>
-  <img
-    align="center-right"
-    alt="brunoAndwele"
-    height="150"
-    src="https://cdn.discordapp.com/attachments/963985952374661120/1093913156436381789/Screenshot_2023-04-07_at_11.59.25.png"
-  />
-  <h1>Hi! It is me, Bruno Andwele!</h1>
+<h2 align="left">Hi! It is me, Bruno Andwele!<br>I am Computer Science Sophomore at University Center of FEI | Python, C, C++, Java, Object-Oriented Programming, and Machine Learning Research</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoandwele&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&custom_title=My Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoandwele&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div>
-  <a
-    href="https://www.linkedin.com/in/brunoandwele/"
-    target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
-  /></a>
-  <a href="mailto:bruno.3a@outlook.com"
-    ><img
-      src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+###
+
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/963985952374661120/1093913156436381789/Screenshot_2023-04-07_at_11.59.25.png"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-<div>
-  <h1>Main Skills!</h1> 
-  <img
-    align="center"
-    alt="Python"
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  />
-  <img
-    align="center"
-    alt="Java"
-    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-  />
-  <img
-    align="center"
-    alt="C"
-    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
-  />
-  <img
-    align="center"
-    alt="Cpp"
-    src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-  />
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/brunoandwele/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="bruno.3a@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/brunoandwele/brunoandwele/output/snake.svg" alt="Snake animation" />
+
+###
