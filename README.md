@@ -38,6 +38,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/brunoandwele/brunoandwele/output/snake.svg" alt="Snake animation" />
+<div>
+![Snake animation](https://github.com/brunoandwele/brunoandwele/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ###
