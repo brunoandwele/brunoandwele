@@ -1,4 +1,4 @@
-<h2 align="left">Hi! It is me, Bruno Andwele!<br>I am Computer Science Sophomore at University Center of FEI </h2>
+<h2 align="left">Hi! It is me, Bruno Andwele!<br>I am Computer Science Student at University Center of FEI </h2>
 
 ###
 
